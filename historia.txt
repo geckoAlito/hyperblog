@@ -5,3 +5,6 @@ con esto vamos a empezar el proyecto 1
 esta es la segunda parte de la modificacion 
 
 Hoy veremos la pelicula favoirita de papá
+
+
+veremos como agregamos un nuevo párrafo
