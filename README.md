@@ -1,2 +1,31 @@
-# hyperblog
-Una muestra para el curso de Git and Github de PLatzi
+
+# Hyperblog :fa-user: 
+
+![](https://i.imgur.com/vYn6ZCc.jpeg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###Hola Mundo!!
+                
+----
+
+
+**Hemos creado un readme completo**  
